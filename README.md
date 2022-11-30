@@ -52,6 +52,10 @@ To implement a perceptron for classification using Python
 
 
 ## **PROGRAM** 
+```
+Name: Virgil Jovita.A
+Reg No: 212221240062
+```
 ```python
 import numpy as np
 import pandas as pd
